@@ -2,10 +2,6 @@
 
 This is a starter template for a new Next.js project with [Next.js](https://nextjs.org) and (Prettier)[https://prettier.io] support.
 
-```
-git c
-```
-
 ## References
 
 - [Creating a template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository)
